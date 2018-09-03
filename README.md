@@ -1,8 +1,9 @@
-# python-simple-template
+# tensorflow-lsm-trial
 
-[![Build Status](https://travis-ci.org/junjihashimoto/python-simple-template.png?branch=master)](https://travis-ci.org/junjihashimoto/python-simple-template)
+[![Build Status](https://travis-ci.org/junjihashimoto/tensorflow-lsm-trial
+.png?branch=master)](https://travis-ci.org/junjihashimoto/tensorflow-lsm-trial)
 
-This template includes doctest, mypy and pytest.
+This product is the mothod of least squares for tensorflow.
 
 ## Test
 
